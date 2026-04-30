@@ -1,16 +1,16 @@
-readme_content = """# 📊 Social Media Engagement Prediction System
+Social Media Engagement Prediction System
 
 A machine learning-based system that predicts **social media engagement** (likes, shares, comments) using content features and user interaction data.
 
 ---
 
-## 🚀 Project Overview
+ Project Overview
 
 This project helps analyze and predict engagement on social media posts using machine learning techniques.
 
 ---
 
-## 🎯 Objectives
+ Objectives
 
 - Predict likes, shares, and comments
 - Identify key factors affecting engagement
@@ -18,14 +18,14 @@ This project helps analyze and predict engagement on social media posts using ma
 
 ---
 
-## 🧠 Machine Learning Models
+ Machine Learning Models
 
 - Linear Regression
 - Random Forest Regressor
 
 ---
 
-## 📂 Features Used
+ Features Used
 
 - Post Type
 - Caption Length
@@ -35,7 +35,7 @@ This project helps analyze and predict engagement on social media posts using ma
 
 ---
 
-## ⚙️ Technologies
+ Technologies
 
 - Python
 - Pandas
